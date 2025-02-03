@@ -30,5 +30,6 @@
   "notebook.codeActionsOnSave": {
     "notebook.source.fixAll": "explicit",
     "notebook.source.organizeImports": "explicit"
-  }
+  },
+  "jupyter.interactiveWindow.textEditor.executeSelection": true
 }

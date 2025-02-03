@@ -9,4 +9,8 @@ wheels/
 # Virtual environments
 .venv
 
+# pytest
 .pytest_cache/
+
+# exclude data from source control by default
+# /data/
